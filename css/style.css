@@ -75,9 +75,14 @@ justify-content: flex-end;
 }
 
 #ops{
- /*    padding-right: 100px; */
+    /* padding-right: 100px; */
 
+}
 
+.list-group-item{
+    width: 150px;
+    padding-right: 16px;
+    margin-right: 20px;
 }
 
 #textos{
