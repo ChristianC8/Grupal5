@@ -79,7 +79,7 @@ justify-content: flex-end;
 
 }
 
-.list-group-item{
+.lista{
     width: 150px;
     padding-right: 16px;
     margin-right: 20px;
@@ -119,9 +119,15 @@ justify-content: flex-end;
 
 
 
+div.showDiv{
+    display: none;
+}
 
-
-
+#opcionesDiv{
+    position: absolute;
+    margin-left: 15%;
+    width: 70%;
+}
 
 
 
